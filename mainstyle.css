@@ -1,0 +1,45 @@
+body{
+    border: 5px solid black;
+    width: 85%;
+    margin: auto;
+    background-color: gold;
+    text-size-adjust: 15px;
+}
+main{
+    background-color: brown;
+}
+h1{
+    color: blue;
+}
+.Nathanstyle{
+    text-align: center;
+    font-size: x-large;
+    color: Green;
+}
+.sectionstyle{
+    background-color: ;
+}
+#h1style{
+    color: yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ul{
+    background-color:white;
+}
+ul>li{
+    list-style:none;
+    display: inline;
+}
+ul>li>a{
+    text-decoration: none;
+    margin-left:4px;
+    padding: 5px;
+}
+ul>li>a:hover{
+    color: red;
+    background-color: white;
+}
+.Nathan{
+    color: red;
+    background-color: black;
+}
